@@ -1,0 +1,11 @@
+C:\Users\Hector\Desktop\Prolog_Final\bin\x86\Debug\Prolog_Final.exe.config
+C:\Users\Hector\Desktop\Prolog_Final\bin\x86\Debug\Prolog_Final.exe
+C:\Users\Hector\Desktop\Prolog_Final\bin\x86\Debug\Prolog_Final.pdb
+C:\Users\Hector\Desktop\Prolog_Final\bin\x86\Debug\SwiPlCs.dll
+C:\Users\Hector\Desktop\Prolog_Final\obj\x86\Debug\Prolog_Final.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Prolog_Final\obj\x86\Debug\Prolog_Final.Jeopardy.resources
+C:\Users\Hector\Desktop\Prolog_Final\obj\x86\Debug\Prolog_Final.Message.resources
+C:\Users\Hector\Desktop\Prolog_Final\obj\x86\Debug\Prolog_Final.Properties.Resources.resources
+C:\Users\Hector\Desktop\Prolog_Final\obj\x86\Debug\Prolog_Final.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\Prolog_Final\obj\x86\Debug\Prolog_Final.exe
+C:\Users\Hector\Desktop\Prolog_Final\obj\x86\Debug\Prolog_Final.pdb
